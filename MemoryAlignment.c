@@ -27,3 +27,4 @@ int main()
 Size of MyStruct1= 12
 Size of MyStruct2= 8
 ----------------------------
+https://www.allaboutcircuits.com/technical-articles/understanding-embedded-C-what-are-structures/
